@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">cursos_psg_oficial</string>
+
+    <string name="title_mision">Apúntate a un curso en video</string>
+    <string name="desc_mision">Desde aprender a cursos basicos hasta aprender cursos avanzados pasando por prácticamente cualquier cosa</string>
+
+    <string name="title_vision">Aprende de los mejores</string>
+    <string name="desc_vision">Acceso a insctructores expertos, certificados</string>
+
+    <string name="title_objetivo">Ve a tu propio ritmo</string>
+    <string name="desc_objetivo">Acceso de por vida a cursos comprados, Accede a eelos en cualquier momento y desde cualquier lugar</string>
+
+    <string name="txt_btn_navegar">Navegar</string>
+    <string name="txt_btn_ini_sesion">Iniciar Sesión</string>
+
+    <!-- para formulario -->
+    <string name="txt_enter_username">Nombre de Usuario</string>
+    <string name="txt_enter_phone">Numero de Celular</string>
+    <string name="txt_enter_password">Escriba su Contraseña</string>
+    <string name="txt_remember_me">Recuerdame</string>
+    <string name="txt_forget_password">Recuperar Contraseña</string>
+    <string name="txt_btn_create_acount">Crear Una Cuenta</string>
+
+    <!-- formulario de registro-->
+    <string name="txt_create_acount_register">Crear\nUna\nCuenta</string>
+
+    <string name="txt_fullname">Nombre(s)</string>
+    <string name="txt_father_lastname">Apellido Paterno</string>
+    <string name="txt_mother_lastname">Apellido Materno</string>
+    <string name="txt_username">Nombre de Usuario</string>
+    <string name="txt_email">Correo Electronico</string>
+    <string name="txt_phone_number">Ingrese su Numero Celular</string>
+    <string name="txt_password">Ingrese Una Contraseña</string>
+    <string name="txt_confirm_password">Confirma la Contraseña</string>
+
+    <string name="txt_select_gender">Selecione su Sexo</string>
+    <string name="txt_male">Masculino</string>
+    <string name="txt_female">Femenino</string>
+    <string name="txt_select_age">Selecione su Edad</string>
+
+    <string name="txt_btn_next">Siguiente</string>
+    <string name="txt_register_account_new">Registrar Cuenta</string>
+
+</resources>

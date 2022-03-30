@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="psg_bg">#070E27</color>
+    <color name="psg_bg_variante">#fd060E27</color>
+    <!--    <color name="psg_bg_light">#FFD800</color>-->
+    <color name="psg_bg_light">#CD9B33</color>
+    <color name="psg_bg_light_variante">#ffe400</color>
+    <color name="psg_bg_light_ancent">#ffa600</color>
+
+    <!-- paleta de colores -->
+    <color name="uno">#297694</color>
+    <color name="dos">#E06C82</color>
+    <color name="tres">#55B9E0</color>
+    <color name="cuatro">#E0D83F</color>
+    <color name="cinco">#948F31</color>
+
+
+</resources>

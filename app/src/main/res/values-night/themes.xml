@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Cursos_psg_oficial" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <!--        <item name="colorPrimary">@color/purple_200</item>-->
+        <!--        <item name="colorPrimaryVariant">@color/purple_700</item>-->
+        <!--        <item name="colorOnPrimary">@color/black</item>-->
+
+        <!-- para letras como (descripciones, etc) -->
+        <item name="colorPrimary">@color/white</item>
+        <!--        <item name="colorPrimary">@color/psg_bg</item>-->
+
+        <!-- para fondos -->
+        <item name="colorPrimaryVariant">@color/psg_bg</item>
+
+        <!-- para titulos -->
+        <item name="colorOnPrimary">@color/psg_bg_light</item>
+
+        <!-- Secondary brand color. -->
+        <!--        <item name="colorSecondary">@color/teal_200</item>-->
+        <!--        <item name="colorSecondaryVariant">@color/teal_200</item>-->
+        <!--        <item name="colorOnSecondary">@color/black</item>-->
+
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
